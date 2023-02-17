@@ -1,8 +1,11 @@
 #include <stdio.h>
-/** main - Print Alphabets.
+
+/**
+ * main - Prints the alphabet.
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	char alph[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
