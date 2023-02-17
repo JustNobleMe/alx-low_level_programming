@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - print alphabets in small letters
+ * main - Prints the alphabet in lowercase.
  *
- * Always return 0 success
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -11,7 +11,7 @@ int main(void)
 	char alph[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
-	for (i=0; i<26; i++)
+	for (i = 0; i < 26; i++)
 	{
 		putchar(alph[i]);
 	}
