@@ -1,12 +1,12 @@
 #include <stdio.h>
-/** main - Alphabets in Lowercase and then Uppercase.
+/** main - Print Alphabets.
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
 	char alph[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
-	int i = 0;
+	int i;
 	
 	for (i = 0; i < 52; i++)
 	{
