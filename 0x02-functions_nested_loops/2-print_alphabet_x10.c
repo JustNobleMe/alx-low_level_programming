@@ -8,7 +8,7 @@
 void print_alphabet_x10(void)
 {
 	int i = 0, a;
-	
+
 	for (a = 0; a < 10; a++)
 	{
 		for (i = 97; i <= 122; i++)
@@ -16,5 +16,5 @@ void print_alphabet_x10(void)
 			_putchar (i);
 		}
 	_putchar ('\n');
-	}		
+	}
 }
