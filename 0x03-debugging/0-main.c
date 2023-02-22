@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-* main - tests function that correct output when given a case of 0
-* Return: 0
-*/
-
+ * main - tests function that correct output when given a case of 0.
+ *
+ *Return: 0
+ */
 int main(void)
 {
 	int i;
