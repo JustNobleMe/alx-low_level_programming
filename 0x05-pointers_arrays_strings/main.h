@@ -3,5 +3,6 @@
 #define _main_h_
 
 void reset_to_98(int *n);
+#include <stdio.h>
 
 #endif
